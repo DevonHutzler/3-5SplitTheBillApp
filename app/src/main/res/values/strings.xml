@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Split the Bill</string>
+
+    <string name="partySize">How many people?</string>
+    <string name="amount">Bill total</string>
+
+    <string name="txtService">How was the service?</string>
+    <string-array name="service">
+        <item>Excellect</item>
+        <item>Average</item>
+        <item>Poor</item>
+    </string-array>
+</resources>
